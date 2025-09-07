@@ -48,5 +48,5 @@ Make sure the following packages are installed:
 
 ```bash
 sudo apt update
-sudo apt install qemu-system-arm unzip
+sudo apt install qemu-system-arm 
 
